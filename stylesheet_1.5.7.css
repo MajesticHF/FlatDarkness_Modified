@@ -69,8 +69,7 @@ div.menu ul:after {
 }
 
 #container {
-    background-color: #282828 !important;
-    background-image: none !important;
+    background: none !important;
     border-style: none !important;
 }
 
@@ -494,8 +493,7 @@ div.error {
 }
 
 html body {
-    background: none !important;
-    background-color: #222222 !important;
+    background-image: url("http://i.imgur.com/ari5kcX.png"); !important;
 }
 
 span.active {
